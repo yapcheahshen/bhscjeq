@@ -1,0 +1,1 @@
+copy ..\..\node_modules\ksana-corpus-lib\ksanalib.min.js static
